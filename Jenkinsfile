@@ -17,7 +17,7 @@
  ******************************************************************************/
 
 // @Library('skymind@bugfix/ppc64-docker') _
-// @Library('skymind@feature/add-cuda-10-support') _
+@Library('skymind@feature/add-logic-for-py-modules') _
 
 /*
     To redefine some job/run parameters,
